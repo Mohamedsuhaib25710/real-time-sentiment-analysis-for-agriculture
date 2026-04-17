@@ -1,0 +1,21 @@
+id,product,clean_text,vader_score,vader_sentiment,textblob_polarity,textblob_sentiment
+1,Wheat Seeds,the wheat seeds gave an excellent yield this season very happy,0.8268,Positive,1.0,Positive
+2,Fertilizer NPK,the fertilizer completely burned my crops total loss,-0.3182,Negative,0.05,Neutral
+3,Drip Irrigation Kit,works okay nothing special about the kit,-0.092,Negative,0.4285714285714286,Positive
+4,Organic Pesticide,fantastic product my farm is completely pest free now pesticide,0.8008,Positive,0.3,Positive
+5,Hybrid Rice Seeds,the rice seeds did not germinate properly very disappointed,-0.5256,Negative,-0.9750000000000001,Negative
+6,Soil Testing Kit,good quality kit easy to use and accurate results,0.7003,Positive,0.5111111111111112,Positive
+7,Compost Manure,terrible quality manure waste of money,-0.7096,Negative,-0.6,Negative
+8,Sprinkler System,average system water pressure could be better,0.1779,Positive,0.175,Positive
+9,Crop Protection Net,excellent protection from birds highly recommend to every farmer other,0.7574,Positive,0.345,Positive
+10,Potassium Fertilizer,didnt see any improvement in crop growth at all fertilizer,0.031,Neutral,0.0,Neutral
+11,Tomato Seeds,best tomato seeds i have ever used great germination rate,0.8519,Positive,0.9,Positive
+12,Water Pump,the pump broke down after uses very poor quality,-0.7346,Negative,-0.3377777777777778,Negative
+13,Bio Pesticide,reasonably good performance for organic farming needs pesticide,0.4404,Positive,0.7,Positive
+14,Drip Tape,the drip tape leaked after one week not worth the price,-0.4526,Negative,-0.15,Negative
+15,Vegetable Seeds Mix,great variety of seeds all germinated well and grew strong,0.8591,Positive,0.6166666666666667,Positive
+16,Neem Oil Spray,superb organic solution completely eliminated pests without chemicals,0.7506,Positive,0.55,Positive
+17,Paddy Seeds,paddy seeds had very low germination extremely disappointed seeds,-0.699,Negative,-0.375,Negative
+18,Solar Water Pump,amazing solar pump saves electricity and works perfectly all day,0.8402,Positive,0.8,Positive
+19,DAP Fertilizer,good fertilizer but the packaging was damaged on arrival fertilizer,-0.4404,Negative,0.7,Positive
+20,Greenhouse Net,perfect greenhouse net excellent build quality and easy to install,0.8834,Positive,0.6083333333333334,Positive
